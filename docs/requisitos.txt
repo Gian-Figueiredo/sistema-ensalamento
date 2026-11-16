@@ -1,0 +1,17 @@
+Requisitos necessários:
+- O sistema precisa permitir o cadastro de salas, contendo nome da sala, número máximo de cadeiras, número de máximo de computadores, capacidade máxima da sala por m², situação da sala (normal, interditada) e se estiver interditada, descrever o motivo.(feito)
+- O sistema precisa permitir o cadastro de disciplinas, contendo nome da disciplina, número de alunos cadastrados, nome do professor, código da disciplina, horário de aula (manhã, tarde, noite). (feito)
+- O sistema precisa permitir que uma disciplina seja alocada em uma sala em determinado horário (feito)
+- O sistema precisa permitir que uma disciplina troque de sala permanentemente. (feito)
+- O sistema precisa permitir que uma turma troque de sala temporariamente (deve determinar o tempo de início e o tempo de término), precisando colocar uma justificativa. (feito)
+- O sistema precisa permitir que uma turma possa reservar uma sala adicional (tanto em dia que possui aula, tanto em dia que não possui), precisando colocar uma justificativa. (feito)
+- O sistema precisa permitir que um grupo (não precisa ser uma turma) reserva uma sala temporariamente, precisando colocar responsável e justificativa. (feito)
+- O sistema precisa permitir que apenas um administrador cadastre as salas e as turmas e faça a alocação de turma por sala. (feito)
+- O sistema precisa permitir que qualquer visitante veja e pesquise as salas disponíveis.
+- O sistema precisa permitir que os visitantes vejam uma visão geral das salas e suas alocações.
+- O sistema precisa permitir que os visitantes façam buscas por turma, por professor e por disciplina.
+- A busca por turma precisa do nome do curso e do nome da turmar e retorna uma tabela de segunda a sábado com os horários de aula da turma dentro da FACOM.
+- A busca por professor precisa do nome do professor e retorna uma lista de disciplinas (nomes da disciplina, curso, turma, horários por sala)
+- A busca por disciplina precisa do nome da turma e do código e retorna uma lista de turma (nome da turma, curso, professor, horários por sala).
+- Todas as buscas podem ser imprimidas.
+- A visão geral também pode (e precisa) ser imprimida.
