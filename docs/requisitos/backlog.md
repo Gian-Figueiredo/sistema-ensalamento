@@ -26,3 +26,7 @@
 
 
 ## Dúvidas
+
+
+## Comentários
+* Cada item preenchido é um item inserido no diagrama de casos de uso
