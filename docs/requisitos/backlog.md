@@ -18,9 +18,9 @@
 - [X] Buscar por turma (recebe o código da turma) (retorna uma tabela por turma com as colunas disciplina[nome, código, optativa, carga horária, observações], nome do professor, horário [dias da semana + horário de início + horário de término], alocação)
 - [X] Buscar por disciplina (recebe o código da disciplina) (retorna uma tabela por turma com as colunas disciplina[nome, código, optativa, carga horária], nome do professor, horário [dias da semana + horário de início + horário de término], alocação)
 - [X] Visualizar visão geral (retorna uma tabela por turma) (disciplinas não alocadas, apa)
-- [ ] Buscar turma alocadas no mirante (A coluna de alocação terá marcado em vermelho "MIRANTE")
-- [ ] Imprimir calendário semanal (Recebe o retorno da busca por sala) (Imprime os calendários distribuídos um por página)
-- [ ] Imprimir tabela (Recebe o retorno da busca por professor, turma ou disciplina) (Imprime as tabelas, distribuídos um por página)
+- [X] Buscar turma alocadas no mirante (A coluna de alocação terá marcado em vermelho "MIRANTE")
+- [X] Imprimir calendário semanal (Recebe o retorno da busca por sala) (Imprime os calendários distribuídos um por página)
+- [X] Imprimir tabela (Recebe o retorno da busca por professor, turma ou disciplina) (Imprime as tabelas, distribuídos um por página)
 
 ## Requisitos não funcionais
 
